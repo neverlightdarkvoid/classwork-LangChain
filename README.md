@@ -16,3 +16,4 @@ http://meet.google.com/itw-ewsf-fum
     a. 需勾選加入環境變數
 8. 設定虛擬環境
 9. 選擇 interpreter
+10. 下載 ollama3.2
